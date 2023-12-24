@@ -381,10 +381,3 @@
 </table>
 
 
-
-
-
-## 请我喝杯咖啡吧
-
-![image](https://raw.githubusercontent.com/hugo2046/Quantitative-analysis/master/coffee.png)
-
